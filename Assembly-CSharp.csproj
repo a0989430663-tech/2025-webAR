@@ -68,6 +68,7 @@
     <Compile Include="Assets\Imagine\ImageTracker\Scripts\ImageTrackerGlobalSettings.cs" />
     <Compile Include="Assets\Imagine\Common\Scripts\Helpers\Billboard.cs" />
     <Compile Include="Assets\Imagine\Common\Scripts\Helpers\SyncVideoSound.cs" />
+    <Compile Include="Assets\GhostCharacter_Free\Scripts\GhostScript.cs" />
     <Compile Include="Assets\Imagine\ImageTracker\Scripts\TextureExtractor_WarpedImage.cs" />
     <Compile Include="Assets\Imagine\Common\Scripts\Helpers\DemoSceneLoader.cs" />
     <Compile Include="Assets\Imagine\Common\Scripts\ARCamera.cs" />
@@ -81,6 +82,7 @@
     <None Include="Assets\Imagine\Common\Shaders\DepthMask.shader" />
     <None Include="Assets\Imagine\Common\Shaders\ARShadow URP.shader" />
     <None Include="Assets\Imagine\Third-Party Notices.txt" />
+    <None Include="Assets\GhostCharacter_Free\Documents\readme_txt.txt" />
     <None Include="Assets\Imagine\Common\Shaders\ARShadow.shader" />
     <None Include="Assets\Imagine\Common\Shaders\IgnoreDepthMask.shader" />
     <None Include="Assets\Imagine\Common\Shaders\ChromaCutoutShader.shader" />
